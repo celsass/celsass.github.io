@@ -1,0 +1,66 @@
+body {
+  background-color: #9f7897;
+}
+
+h1{
+  color: #ebc24c;
+  font-size: 35px;
+  font-family: Century gothic, sans-serif;
+  text-align: center;
+  text-shadow: 1px 1px #b4825d;
+  border-bottom: 3px solid #9c6c6c;
+}
+
+.name {
+  padding-left: 10px;
+}
+
+.info {
+  color: white;
+  text-align: center;
+  font-family: Century gothic, sans-serif;
+}
+
+.edu{
+  color: #ebc24c;
+  text-decoration-line: underline;
+  text-shadow: 0.5px 0.5px #b4825d;
+  padding-left: 5px;
+  font-family: Century gothic, sans-serif;
+}
+
+.school {
+  border: 2px solid #9c6c6c;
+  padding-left: 5px;
+  font-family: Century gothic, sans-serif;
+  
+}
+
+.qual {
+  color: #ebc24c;
+  text-decoration-line: underline;
+  text-shadow: 0.5px 0.5px #b4825d;
+  padding-left: 5px;
+  font-family: Century gothic, sans-serif;
+}
+
+.list {
+  font-family: Century gothic, sans-serif;
+}
+
+.work {
+  color: #ebc24c;
+  text-decoration-line: underline;
+  text-shadow: 0.5px 0.5px #b4825d;
+  padding-left: 5px;
+  font-family: Century gothic, sans-serif;
+}
+
+.start {
+  padding-left: 10px;
+  font-family: Century gothic, sans-serif;
+}
+
+.jobs {
+  font-family: Century gothic, sans-serif;
+}
