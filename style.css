@@ -1,13 +1,14 @@
 body {
   background-color: #9f7897;
+  margin: 10% 15%;
 }
 
 h1{
   color: #ebc24c;
-  font-size: 35px;
+  font-size: 40px;
   font-family: Century gothic, sans-serif;
   text-align: center;
-  text-shadow: 1px 1px #b4825d;
+  text-shadow: 2px 2px #b4825d;
   border-bottom: 3px solid #9c6c6c;
 }
 
@@ -25,14 +26,18 @@ h1{
   color: #ebc24c;
   text-decoration-line: underline;
   text-shadow: 0.5px 0.5px #b4825d;
-  padding-left: 5px;
+  padding-left: 15px;
   font-family: Century gothic, sans-serif;
+  background-color: #7c4c73;
+  border-top: 2px solid #9c6c6c;
+  border-bottom: 2px solid #9c6c6c;
 }
 
 .school {
   border: 2px solid #9c6c6c;
   padding-left: 5px;
   font-family: Century gothic, sans-serif;
+  margin: 20px;
   
 }
 
@@ -40,8 +45,11 @@ h1{
   color: #ebc24c;
   text-decoration-line: underline;
   text-shadow: 0.5px 0.5px #b4825d;
-  padding-left: 5px;
+  padding-left: 15px;
   font-family: Century gothic, sans-serif;
+  background-color: #7c4c73;
+  border-top: 2px solid #9c6c6c;
+  border-bottom: 2px solid #9c6c6c;
 }
 
 .list {
@@ -52,8 +60,11 @@ h1{
   color: #ebc24c;
   text-decoration-line: underline;
   text-shadow: 0.5px 0.5px #b4825d;
-  padding-left: 5px;
+  padding-left: 15px;
   font-family: Century gothic, sans-serif;
+  background-color: #7c4c73;
+  border-top: 2px solid #9c6c6c;
+  border-bottom: 2px solid #9c6c6c;
 }
 
 .start {
