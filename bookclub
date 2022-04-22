@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>JS Bin</title>
+  </head>
+  
+  <body>
+
+    <h1>Untitled Bookclub</h1>
+    
+    <h2>Book of the Month</h2>
+    <figure>
+      <img src="https://images.penguinrandomhouse.com/cover/9780593133385"></img>
+    <figcaption>Detransition, Baby By: Torrey Peters</figcaption>
+    </figure>
+  
+    <h2>About</h2>
+      <ul>
+        <li>4/5 Goodreads</li>
+        <li>4.3 Barnes & Noble</li>
+      </ul>
+      <p><strong>Originally Published:</strong> January 7th, 2021</p>
+      <p><strong>Author:</strong> Torrey Peters</p>
+      <p><strong>Original Language:</strong> English</p>
+      <p><strong>Genres:</strong> Transgender fiction, Domestic fiction</p>
+      <p><strong>Awards:</strong> PEN/Hemingway Award</p>
+      <p><strong>Nominations:</strong> PEN/Hemingway, John Leonard Prize, MORE</p>
+    
+    <h3>First meeting will be held via Zoom in June!</h3>
+  
+    <h2>Get Book Here!</h2>
+      <ul>
+        <li><a href="https://www.amazon.com/Detransition-Baby-Novel-Torrey-Peters/dp/0593133382/ref=asc_df_0593133382/?tag=hyprod-20&linkCode=df0&hvadid=509620557022&hvpos=&hvnetw=g&hvrand=1889076693793149408&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9020674&hvtargid=pla-1362986524006&psc=1">Amazon</a></li>
+        <li><a href="https://www.barnesandnoble.com/w/detransition-baby-torrey-peters/1134846767?ean=9780593133385">Barnes & Noble</a></li>
+        <li><a href="https://www.audible.com/pd/Detransition-Baby-Audiobook/059328948X?qid=1650585897&sr=1-1&ref=a_search_c3_lProduct_1_1&pf_rd_p=83218cca-c308-412f-bfcf-90198b687a2f&pf_rd_r=6VABJNCBSA0B0ZXRN5HV">Audible</a></li>
+      </ul>
+    
+  </body>
+
+  <footer>
+    <p>Club Head: Marlee Braun</p>
+    <p>Contact: 605-695-5915</p>
+    
+  </footer>
+    
+  
+</html>
